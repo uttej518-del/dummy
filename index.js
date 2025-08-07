@@ -5,3 +5,8 @@ const isStudent=true
 
 
 
+function add(){
+    print(2+1)
+}
+
+add()
